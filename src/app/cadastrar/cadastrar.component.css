@@ -1,0 +1,27 @@
+#img-bg {
+  background-image: url("../../assets/img/bg_cadastro.jpeg");
+
+  min-height: 695px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn {
+  background-color: #a7c957;
+  color: white;
+}
+
+.cancel {
+  background-color: #ef476f;
+  color: white;
+}
+
+h1 {
+  color: #ef476f;
+}
+
+a {
+  color: #ffafcc;
+}
