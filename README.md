@@ -1,8 +1,11 @@
 # BlogPessoal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+Projeto de blog pessoal utilizando Angular v13.3.3
 
-## Development server
+O projeto faz consulta a uma banco de dados utilizando JSON, através de uma API própria.
+No blog o usuário cadastrado pode fazer postagem por temas pré cadastrados pelo administrador.
+
+## Para rodar a aplicação localmente:
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
